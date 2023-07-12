@@ -6,7 +6,7 @@
 
 <h5>Full Stack Developer</h5>
 <p>
-I am an open-minded and motivated Full-stack Developer who seeks continual growth by consistently learning, unlearning, and relearning. I have over four (4) years of experience in Web and Mobile development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. My technical expertise includes fluency in Dart (framework: Flutter), react, HTML/CSS, JavaScript, Python, Django knowledge in continuous integration and deployment/delivery using GitLab CI, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development process of applications I worked on either single-handedly or as part of a team. I pay strong attention to details and commitment to delivering quality results. I am well talented and well positioned to contribute any project I engage with as a proactive team player
+I am an open-minded and motivated Full-stack Developer who seeks continual growth by consistently learning, unlearning, and relearning. I have over four (4) years of experience in Web and Mobile development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. My technical expertise includes fluency in Dart (framework: Flutter), react, HTML/CSS, JavaScript, Python, and Django knowledge in continuous integration and deployment/delivery using GitLab CI, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development process of applications I worked on either single-handedly or as part of a team. I pay strong attention to details and commitment to delivering quality results. I am well-talented and well-positioned to contribute to any project I engage with as a proactive team player
 </p>
 
 <li> 🌍  I'm based in Lokoja </li>
@@ -14,7 +14,11 @@ I am an open-minded and motivated Full-stack Developer who seeks continual growt
 <li>🚀  I'm currently working on a Real Estate app </li>
 <li>🧠  I'm learning MVVM in Flutter</li>
 <li>🤝  I'm open to collaborating on Interesting Flutter and Web Projects</li>
-<li>⚡  I love Video Games, Table Tennis and Gymming</li>
+<li>⚡  I love Video Games, Table Tennis, and Gymming</li>
+
+<h3>Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **Shegzzy/Shegzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
