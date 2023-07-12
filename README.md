@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
 
-My name is Alabi Micheal Segun
+<h4>My name is Alabi Micheal Segun</h4>
 <hr>
 
 Full Stack Developer
@@ -10,9 +10,9 @@ I am an open-minded and motivated Full-stack Developer who seeks continual growt
 <li> 🌍  I'm based in Lokoja </li>
 <li>✉️  You can contact me at michhubs@gmail.com</li>
 <li>🚀  I'm currently working on a Real Estate app </li>
-🧠  I'm learning MVVM in Flutter
-🤝  I'm open to collaborating on Interesting Flutter and Web Projects
-⚡  I love Video Games, Table Tennis and Gymming
+<li>🧠  I'm learning MVVM in Flutter</li>
+<li>🤝  I'm open to collaborating on Interesting Flutter and Web Projects</li>
+<li>⚡  I love Video Games, Table Tennis and Gymming</li>
 
 <!--
 **Shegzzy/Shegzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
