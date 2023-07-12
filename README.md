@@ -18,7 +18,7 @@ I am an innovative and motivated Full-stack Developer who seeks growth by consis
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,python,django,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,python,django,react,firebase,postgres,mysql)](https://skillicons.dev)
 
 <!--
 **Shegzzy/Shegzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
