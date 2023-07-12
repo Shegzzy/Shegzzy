@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
 
-<h4>My name is <span style="color: blue;"> Alabi Micheal Segun </span> </h4>
+<h4>My name is <strong> Alabi Micheal Segun </strong> </h4>
 <hr>
 
 <h5>Full Stack Developer</h5>
