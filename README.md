@@ -10,10 +10,11 @@ I am an innovative and motivated Full-stack Developer who seeks growth by consis
 </p>
 
 <li>🌍  I'm based in Lokoja </li>
-<li>✉️  You can contact me at michhubs@gmail.com</li>
-<li>🚀  I'm currently working on a Real Estate app </li>
-<li>🧠  I'm learning MVVM in Flutter</li>
-<li>🤝  I'm open to collaborating on Interesting Flutter and Web Projects</li>
+<li>✉️  You can contact me at miksegun1996@gmail.com</li>
+<li>🚀  I'm currently working on a Grocery shopping and Store Inventory app </li>
+<li>🛠  I use MVVM architectural parttern in Flutter</li>
+<li>🧠  I'm currently learning Solidity</li>
+<li>🤝  I'm open to collaboration on Interesting Flutter and Web Projects</li>
 <li>⚡  I love Video Games, Table Tennis, and Gymming</li>
 
 <h3>Skills</h3>
