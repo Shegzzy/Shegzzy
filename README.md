@@ -1,18 +1,17 @@
 ### Hi there 👋
 <hr>
 
-<h4>My name is <strong> Alabi Micheal Segun </strong> </h4>
+<h4>My name is <strong> Alabi Segun </strong> </h4>
 <hr>
 
 <h5>Full Stack Developer</h5>
 <p>
-I am an innovative and motivated Full-stack Developer who seeks growth by consistently learning, unlearning, and relearning. I have over four (4) years of experience in Web and Mobile development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. My technical expertise includes fluency in Dart (framework: Flutter), react, HTML/CSS, JavaScript, Python, and Django knowledge in continuous integration and deployment/delivery using GitLab CI, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development process of applications I worked on either single-handedly or as part of a team. I pay strong attention to details and commitment to delivering quality results. I am well-talented and well-positioned to contribute to any project I engage with as a proactive team player
+A motivated Full-stack Developer who seeks growth by consistently learning, unlearning, and relearning. I have over four (4) years of experience in Web and Mobile development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. My technical expertise includes fluency in Dart (framework: Flutter), React, HTML/CSS, JavaScript, Python Django, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development process of applications I worked on either single-handedly or as part of a team. I pay strong attention to details and commitment to delivering quality results. I am well-talented and well-positioned to contribute to any project I engage with as a proactive team player
 </p>
 
-<li>🌍  I'm based in Lokoja </li>
-<li>✉️  You can contact me at miksegun1996@gmail.com</li>
-<li>🚀  I'm currently working on a Grocery shopping and Store Inventory app </li>
-<li>🛠  I use MVVM architectural parttern in Flutter</li>
+<li>🌍  I'm based in Abuja </li>
+<li>✉️  You can contact me at michhubs@gmail.com</li>
+<li>🛠  I adopt the MVVM architectural pattern in Flutter</li>
 <li>🧠  I'm currently learning Solidity</li>
 <li>🤝  I'm open to collaboration on Interesting Flutter and Web Projects</li>
 <li>⚡  I love Video Games, Table Tennis, and Gymming</li>
